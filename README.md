@@ -38,5 +38,4 @@ this is the phone directory which is built-in c++ language and the concept of da
     
 ## Author
 
-- Github: [Amresh Kumar](https://github.com/Amreshnit)
-- Linkedin: [Amresh Kumar](https://www.linkedin.com/in/amresh-kumar-467069183/)
+- Github: [Shainaz Khatoon](https://github.com/shainaz-k/Contact_Directory)
