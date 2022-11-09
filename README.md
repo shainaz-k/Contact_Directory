@@ -12,7 +12,7 @@ this is the phone directory which is built-in c++ language and the concept of da
   In This project,
   all contact is sorted in lexicographical order, and when a new contact is created at that time we connect his original position.
 
-  for searching in this project user can search with name(first name, last name), mobile number, email id., and the searching process is done by user entering in any case(lower case, upper case) of character like- {AmreSh, AMRESH, amresh,......}.
+  for searching in this project user can search with name(first name, last name), mobile number, email id., and the searching process is done by user entering in any case(lower case, upper case) of character like- {Shainaz, SHAINAZ, shainaz,......}.
 
   And when the user wanna delete the contact at that time we remove the current node(which node the user wanna remove) and connect the previous node to the next node.
 
